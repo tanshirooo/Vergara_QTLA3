@@ -5,12 +5,12 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Arial, sans-serif;
-    background: #F8D9E9; /* light pink */
-    color: #2E2323;      /* dark brown */
+    background: #F8D9E9; 
+    color: #2E2323;     
 }
 
 header {
-    background-color: #F6A6C9; /* medium pink */
+    background-color: #F6A6C9; 
 }
 
 .navbar {
@@ -65,7 +65,7 @@ header {
 .sales-btn {
     background: transparent;
     color: #2E2323;
-    border: 1px solid #2E2323; /* smaller border */
+    border: 1px solid #2E2323; 
     padding: 8px 20px;
     border-radius: 6px;
     font-weight: bold;
@@ -73,9 +73,9 @@ header {
 }
 
 .free-btn {
-    background: #E86CA7; /* vibrant pink */
+    background: #E86CA7; 
     color: #fff;
-    border: 1px solid #E86CA7; /* smaller border */
+    border: 1px solid #E86CA7;
     padding: 8px 20px;
     border-radius: 6px;
     font-weight: bold;
@@ -83,7 +83,7 @@ header {
 }
 
 .free-btn:hover {
-    background: #E86CA7; /* vibrant pink */
+    background: #E86CA7; 
     color: #fff;
     box-shadow: 0 4px 16px rgba(232,108,167,0.18);
     border-color: #E86CA7;
@@ -146,9 +146,9 @@ header {
 }
 
 .email-btn {
-    background: #F6A6C9;      /* medium pink */
-    color: #2E2323;           /* dark brown */
-    border: 1px solid #E86CA7;/* vibrant pink border */
+    background: #F6A6C9;     
+    color: #2E2323;         
+    border: 1px solid #E86CA7;
     padding: 14px 28px;
     font-size: 1rem;
     border-radius: 6px;
@@ -180,7 +180,7 @@ header {
 .free-text {
     margin-top: 8px;
     font-size: 1rem;
-    color: #E86CA7; /* vibrant Kuromi pink */
+    color: #E86CA7; 
 }
 
 .hero-image {
@@ -202,4 +202,5 @@ header {
     padding: 12px;
     display: block;
     margin: 0 auto;
+
 }
